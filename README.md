@@ -2,7 +2,7 @@
 Built an end-to-end Microsoft Sentinel detection pipeline: onboarded a Linux VM via AMA (DCR) to ingest Syslog, enabled Azure Activity via policy, wrote KQL parsers, created a Scheduled Analytics (SSH brute force &amp; Azure delete), verified incidents in Defender, and built a workbook dashboard. Includes JSON exports &amp; KQL queries.
 
 ---------
-Azure Sentinel Mini-SOC (Azure Activity + Linux Syslog)
+azure-sentinel-detection-pipeline (Azure Activity + Linux Syslog)
 
 End-to-end detection pipeline built on Microsoft Sentinel:
 
